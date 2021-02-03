@@ -9,8 +9,7 @@ Wireless Home Automation system(WHAS) using IoT is a system that uses computers 
 
 **Flow Chart Explaining Our Project**
 <p align="center">
-<img src="https://github.com/aniketmarwade/Home-Automation-2021-FInal-Year-Project/blob/main/IMAGES/flow%20chart.jpg?raw=true"
-  alt="Size Limit comment in pull request about bundle size changes"
+<img src="https://github.com/aniketmarwade/Home-Automation-2021-FInal-Year-Project/blob/main/IMAGES/diagrams/flow%20chart.jpg?raw=true"
   width="686" height="359">
 </p>
 
