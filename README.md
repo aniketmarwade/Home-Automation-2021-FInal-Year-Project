@@ -80,3 +80,10 @@ int MODE = 0;
 ```
 char auth[] = "1KI9pZktz5A9kTT3d7c0QslmIjowKmW0";
 ```
+
+
+
+
+
+
+
