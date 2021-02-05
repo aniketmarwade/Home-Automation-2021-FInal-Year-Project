@@ -1,14 +1,14 @@
 # WEB SERVER BASED HOME AUTOMATION SYSTEM USING INTERNET OF THINGS
 
 
-# 1. What is Home Automation?
+# 1. WHAT IS HOME AUTOMATION?
 
 Wireless Home Automation system(WHAS) using IoT is a system that uses computers or mobile devices to control basic home functions and features automatically through internet from anywhere around the world.
 
 With this you can control home appliances anywhere in the world from your phone as well as manually from switches with real-time feedback on your app with internet or without internet.
 
 
-# Schematics & Diagrams
+# 2. SCHEMATICS & DIAGRAMS
 
 **This is a baisc flowchart explaining our project**
 <p align="center">
@@ -21,7 +21,7 @@ With this you can control home appliances anywhere in the world from your phone 
 <img src="https://github.com/aniketmarwade/Home-Automation-2021-FInal-Year-Project/blob/main/IMAGES/diagrams/flow_saurabh.png"
   width="458" height="542"></p>
 
-# Components.
+# 3. COMPONENTS
 
 1. [ESP 32](https://www.amazon.in/SquadPixel-ESP-32-Bluetooth-Development-Board/dp/B071XP56LM/ref=sr_1_1?dchild=1&keywords=esp32&qid=1612376825&sr=8-1) / [Node MCU ESP8266](https://www.amazon.in/Lolin-NodeMCU-ESP8266-CP2102-Wireless/dp/B010O1G1ES/ref=sr_1_2?dchild=1&keywords=esp8266&qid=1612376986&sr=8-2)
 2. [8 Channel Relay](https://www.amazon.in/JBTek-Channel-Control-Optocoupler-Arduino/dp/B00KTELP3I/ref=sr_1_1?crid=3BEE2K9I4CM3P&dchild=1&keywords=8+channel+relay+module&qid=1612377061&sprefix=8+channel+re%2Caps%2C194&sr=8-1)
@@ -36,7 +36,35 @@ With this you can control home appliances anywhere in the world from your phone 
 11. 2.2uf 250V Capacitor
 12. 10k ohm 1/4W Resistors
 
+# 4. INSTALLATION
 
+### Downloading and installing steps:
+
+#### Arduino Ide:
+* **[Download](https://www.arduino.cc/en/software)** the latest version of the Arduino Ide.
+* **Go** to the folder: `\Downloads`
+  * Look for Arduino Ide file and **Install** it.
+
+#### Blynk Library:
+* Open **Arduino Ide**.
+  * Go to **Sketch**:
+  * Go to **Include Library**
+  * Go to **Manage Libraries**
+  * Search for **Blynk** in search box
+  * Select latest version in **Select Version** box and click **Install**
+
+#### ESP32 Board:
+* * Open **Arduino Ide**.
+  * Go to **Files**:
+  * Go to **Preferences**
+  * Go to **Additional Boards Manager URLs:** and Paste- https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json their and click Ok.
+  * Now go to **Tools**:
+  * Go to **Boards:**
+  * Go to **Boards Manager**
+  * Search for **esp32** in search bar
+  * Select latest version in **Select Version** box and click **Install**
+  
+  
 
 # CODE 
 The code is divided into two main parts they are with internet and without internet with other parts that are used to complete the code.
