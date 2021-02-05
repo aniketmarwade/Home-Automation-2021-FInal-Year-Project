@@ -14,18 +14,21 @@ With this you can control home appliances anywhere in the world from your phone 
   width="686" height="359">
 </p>
 
-**The Main Components Used in our Project**
+# Components.
 
-* **Esp 32 Wroom model**
-* **2 Bread Boards**
-* **Capacitor 2.2uf 250v**
-* **Capacitor 3.3uf 250v**
-* **Resistor 200k ohms 1/4w**
-* **Resistor 330 ohms**
-* **8 Channel Relay**
-* **Jumpers**
-* **other electrical components.....**
-* 
+1. [ESP 32](https://www.amazon.in/SquadPixel-ESP-32-Bluetooth-Development-Board/dp/B071XP56LM/ref=sr_1_1?dchild=1&keywords=esp32&qid=1612376825&sr=8-1) / [Node MCU ESP8266](https://www.amazon.in/Lolin-NodeMCU-ESP8266-CP2102-Wireless/dp/B010O1G1ES/ref=sr_1_2?dchild=1&keywords=esp8266&qid=1612376986&sr=8-2)
+2. [8 Channel Relay](https://www.amazon.in/JBTek-Channel-Control-Optocoupler-Arduino/dp/B00KTELP3I/ref=sr_1_1?crid=3BEE2K9I4CM3P&dchild=1&keywords=8+channel+relay+module&qid=1612377061&sprefix=8+channel+re%2Caps%2C194&sr=8-1)
+3. [Breadboard Small](https://www.amazon.in/REES52-400-Point-Solderless-Breadboard/dp/B01IN0QGP6/ref=sr_1_2?crid=3J32PUARETXGC&dchild=1&keywords=small+breadboard&qid=1612377128&sprefix=small+brea%2Caps%2C381&sr=8-2)
+4. [Breadboard Large](https://www.amazon.in/Generic-Elementz-Solderless-Piecesb-Circuit/dp/B00MC1CCZQ/ref=sr_1_4?crid=J9RLK5OJ4NKB&dchild=1&keywords=breadboard&qid=1612377224&sprefix=breadb%2Caps%2C643&sr=8-4)
+5. [Jumper](https://www.amazon.in/Electrobot-Jumper-Wires-120-Pieces/dp/B071VQLQQQ/ref=sr_1_2?crid=OC4LYMDWO3JR&dchild=1&keywords=jumper+wires&qid=1612378597&sprefix=jumpr%2Caps%2C634&sr=8-2)
+6. [Regulator Switch](https://www.amazon.in/pole-Wiring-Selector-Rotary-Switch/dp/B08PS32FCY/ref=sr_1_4?dchild=1&keywords=rotary+switch&pd_rd_r=a68bfd61-e901-4920-ac14-aa270e352c48&pd_rd_w=QPL4h&pd_rd_wg=FaYzp&pf_rd_p=1abe8808-d6bc-4840-858b-6acddb119a7a&pf_rd_r=YT4SZWE3WYXHPDEGZDRM&qid=1612378653&sr=8-4)
+7. Prototype Board
+8. 2.2ohm 1/2W Resistor
+9. 220k ohm 1/4W Resistor
+10. 3.3uF 250V Capacitor
+11. 2.2uf 250V Capacitor
+12. 10k ohm 1/4W Resistors
+
 
 
 # CODE 
