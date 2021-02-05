@@ -3,9 +3,10 @@
 
 # 1. What is Home Automation?
 
-
-
 Wireless Home Automation system(WHAS) using IoT is a system that uses computers or mobile devices to control basic home functions and features automatically through internet from anywhere around the world.
+
+With this you can control home appliances anywhere in the world from your phone as well as manually from switches with real-time feedback on your app with internet or without internet.
+
 
 **Flow Chart Explaining Our Project**
 <p align="center">
