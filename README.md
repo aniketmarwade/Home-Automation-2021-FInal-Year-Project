@@ -17,7 +17,9 @@ With this you can control home appliances anywhere in the world from your phone 
 </p>
 
 **This is systematic flowchart explaining our project**
+<p align="center">
 ![Flow Chart](https://github.com/aniketmarwade/Home-Automation-2021-FInal-Year-Project/blob/main/IMAGES/diagrams/flow_saurabh.png?raw=true)
+</p>
 
 # Components.
 
