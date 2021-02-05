@@ -8,10 +8,19 @@ Wireless Home Automation system(WHAS) using IoT is a system that uses computers 
 With this you can control home appliances anywhere in the world from your phone as well as manually from switches with real-time feedback on your app with internet or without internet.
 
 
-**Flow Chart Explaining Our Project**
+# Schematics & Diagrams
+
+**This is a baisc flowchart explaining our project**
 <p align="center">
 <img src="https://github.com/aniketmarwade/Home-Automation-2021-FInal-Year-Project/blob/main/IMAGES/diagrams/flow%20chart.jpg?raw=true"
   width="686" height="359">
+</p>
+
+**This is systematic flowchart explaining our project**
+<p align="center">
+<img src="https://github.com/aniketmarwade/Home-Automation-2021-FInal-Year-Project/raw/main/IMAGES/diagrams/flow_saurabh.png?raw=true"
+  width="686" height="600">
+
 </p>
 
 # Components.
