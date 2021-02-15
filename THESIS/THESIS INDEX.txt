@@ -1,0 +1,56 @@
+1. introduction(ROHIT DAREKAR)
+
+
+2. litrature review(ROHIT DAREKAR)
+   >> Why should we use such system
+   >> Purpose
+   >> Goal 
+   >> Scope
+
+
+3. Propose Implementation (ABHIJEET GURNULE)
+   >> Problem statement
+   >> Software Requirement
+   >> Hardware Requirement
+   >> Project Requirement
+   >> Advantages
+   >> Application
+
+4. system analysis(SYSTEM ANALYSYS)
+   >>analysis/overview of project
+
+
+5. Requirement analysys(JANVI DHOMANE,RATI GADDAMWAR,RITESH REKHATE)
+   >> OOAD Diagrams.
+       --USE CASE DIGRAM
+       --ACTIVITY DIAGRAM
+       --CLASS DIAGRAM
+       --SEQUENCE DIAGRAM
+       --DATA FLOW DIAGRAM
+   >> Languages used
+
+6. system design(HITESHA GOTECHA)
+   >>Circuit Diagrams/ Schematics
+   >>Flow charts
+
+7. IMPLEMENTATION (ANIKET MARWADE)
+   >>Results(screenshots)
+   
+
+
+8. TESTING (NAYAN PATEL)
+   >> Introduction to testing
+   >> Types of testing in our project
+   >> Black Box testing & White box testing.
+
+
+
+9. CONCLUSION(ROHIT DAREKAR)
+
+
+
+10.FUTURE SCOPE(ANIKET MARWADE)
+
+
+  REFERENCES
+
