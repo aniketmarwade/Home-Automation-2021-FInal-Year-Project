@@ -39,7 +39,7 @@ int MODE = 0;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "your auth code";
+char auth[] = "rj0PqbixEtHKrCTZusqlQZ4T2fjEGUMp";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
@@ -145,9 +145,11 @@ void setup()
   Serial.begin(9600);
   WiFi.begin(ssid, pass);
 
+  
+  Blynk.config(auth,"coderscreed.in",8080);
   timer.setInterval(3000L, checkBlynk); // check if connected to Blynk server every 3 seconds
 
-  Blynk.config(auth);//, ssid, pass);
+ 
 }
 
 
